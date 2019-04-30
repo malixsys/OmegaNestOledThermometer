@@ -1,6 +1,6 @@
 ## Omega Nest Oled Thermometer
 
-![Omega](https://raw.githubusercontent.com/malixsys/OmegaNestOledThermometer/master/omega.jpg)
+![Omega](https://raw.githubusercontent.com/malixsys/OmegaNestOledThermometer/master/omega2p.jpg)
 
 ### Install
 

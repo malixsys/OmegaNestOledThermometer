@@ -1,4 +1,6 @@
-## Onion Nest Thermometer
+## Omega Nest Oled Thermometer
+
+![Omega](https://raw.githubusercontent.com/malixsys/OmegaNestOledThermometer/master/omega.jpg)
 
 ### Install
 
